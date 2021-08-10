@@ -1,14 +1,5 @@
 # exceltool
 
-Usage of exceltool.exe:
-
-  -axis string
-  -file string
-  -sheet string
-  -type string
-  -value string
-
-
 exceltool.bat
 ```
 @echo off
