@@ -17,3 +17,7 @@ exceltool.exe -file="test.xlsx" -sheet="Sheet1" -axis="A2" -type="number" -value
 exceltool.exe -file="test.xlsx" -sheet="Sheet1" -axis="A3" -type="number" -value="22"
 exceltool.exe -file="test.xlsx" -sheet="Sheet1" -axis="A4" -type="formula" -value="=a2+a3"
 ```
+
+test.xlsx
+
+![](https://is.gd/3KFNWd)
